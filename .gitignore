@@ -1,0 +1,18 @@
+﻿# Environment variables — NEVER commit these
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
